@@ -1,0 +1,7 @@
+model_name: tu-tf_efficientnet_l2.ns_jft_in1k
+image_size: 512
+frame_first: 2
+frame_last: 4
+batch_size: 32
+grad_checkpointing: true
+decoder_ch_coef: 8

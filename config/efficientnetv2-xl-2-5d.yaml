@@ -1,0 +1,7 @@
+model_name: tu-tf_efficientnetv2_xl.in21k_ft_in1k
+lr: 1.0e-3
+image_size: 512
+frame_first: 2
+frame_last: 4
+grad_checkpointing: true
+decoder_ch_coef: 8

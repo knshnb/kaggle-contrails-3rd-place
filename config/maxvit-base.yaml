@@ -1,0 +1,4 @@
+model_name: tu-maxvit_base_tf_512.in21k_ft_in1k
+image_size: 512
+batch_size: 32
+precision: 32

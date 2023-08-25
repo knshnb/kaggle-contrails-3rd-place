@@ -1,0 +1,9 @@
+model_name: tu-maxvit_base_tf_512.in21k_ft_in1k
+image_size: 512
+lr: 1.0e-3
+frame_first: 2
+frame_last: 4
+precision: 32
+batch_size: 32
+grad_checkpointing: true
+decoder_ch_coef: 8

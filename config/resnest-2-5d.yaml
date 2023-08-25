@@ -1,0 +1,4 @@
+image_size: 512
+frame_first: 2
+frame_last: 4
+decoder_ch_coef: 8
