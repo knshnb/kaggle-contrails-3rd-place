@@ -45,3 +45,5 @@ Models were trained mainly on 2x or 4x NVIDIA A100 (80GB).
 
 ## Links
 - For an overview of our key ideas and detailed explanation, please also refer to [3rd Place Solution: 2.5D U-Net](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/discussion/430685) Kaggle discussion.
+- [yiemon's repository](https://github.com/yoichi-yamakawa/kaggle-contrail-3rd-place-solution)
+- [charmq's repository](https://github.com/tyamaguchi17/contrails_charm_public)
